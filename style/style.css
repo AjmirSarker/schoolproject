@@ -245,7 +245,7 @@ h1:hover{
 #af:hover{
     color:#FD511A ;
 }
-.hov:hover{
+.hov:hover img{
     transform: scale(1.2);
     overflow: hidden;
     transition: transform 2s ease-in-out ;
